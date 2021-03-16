@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/mobile/static/css/main.e05f20be.chunk.css",
+    "main.js": "/mobile/static/js/main.373d387c.chunk.js",
+    "main.js.map": "/mobile/static/js/main.373d387c.chunk.js.map",
+    "runtime-main.js": "/mobile/static/js/runtime-main.dedf9dbe.js",
+    "runtime-main.js.map": "/mobile/static/js/runtime-main.dedf9dbe.js.map",
+    "static/css/2.54370922.chunk.css": "/mobile/static/css/2.54370922.chunk.css",
+    "static/js/2.4d9b1cef.chunk.js": "/mobile/static/js/2.4d9b1cef.chunk.js",
+    "static/js/2.4d9b1cef.chunk.js.map": "/mobile/static/js/2.4d9b1cef.chunk.js.map",
+    "index.html": "/mobile/index.html",
+    "static/css/2.54370922.chunk.css.map": "/mobile/static/css/2.54370922.chunk.css.map",
+    "static/css/main.e05f20be.chunk.css.map": "/mobile/static/css/main.e05f20be.chunk.css.map",
+    "static/js/2.4d9b1cef.chunk.js.LICENSE.txt": "/mobile/static/js/2.4d9b1cef.chunk.js.LICENSE.txt",
+    "static/media/Andriod.62926d69.jpg": "/mobile/static/media/Andriod.62926d69.jpg",
+    "static/media/Iphone.8c835ea3.jpg": "/mobile/static/media/Iphone.8c835ea3.jpg",
+    "static/media/Nokia.0b013073.jpg": "/mobile/static/media/Nokia.0b013073.jpg",
+    "static/media/blackberry.75e218ac.jpg": "/mobile/static/media/blackberry.75e218ac.jpg",
+    "static/media/first.12f5a0a2.jpg": "/mobile/static/media/first.12f5a0a2.jpg",
+    "static/media/manideep.12d4a350.jpg": "/mobile/static/media/manideep.12d4a350.jpg",
+    "static/media/rahul.d017db95.jpg": "/mobile/static/media/rahul.d017db95.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dedf9dbe.js",
+    "static/css/2.54370922.chunk.css",
+    "static/js/2.4d9b1cef.chunk.js",
+    "static/css/main.e05f20be.chunk.css",
+    "static/js/main.373d387c.chunk.js"
+  ]
+}
